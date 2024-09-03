@@ -1,4 +1,4 @@
-Este projeto em Python, intitulado "Painel Geo Brasil," demonstra a capacidade da linguagem de criar páginas web interativas utilizando o framework Streamlit.
+Este projeto em Python, intitulado "Painel de Dados Geográficos Brasil", demonstra a capacidade da linguagem de criar páginas web interativas utilizando o framework Streamlit.
 Através do uso de bibliotecas como pandas para manipulação de dados, plotly express e folium para a visualização, o projeto apresenta um painel que permite a visualização de dados geográficos e demográficos do Brasil.
 
 Page Home: População dos Estados Brasileiros
@@ -8,6 +8,11 @@ Através do sidebar é possível acessar a pagina abaixo:
 
 Page PIB: PIB dos Estados Brasileiros
 ![image](https://github.com/user-attachments/assets/f1ca538f-81d1-455b-b9f8-4cc35400b6a8)
+
+Observação: também possível alterar o tema para escuro:
+
+![image](https://github.com/user-attachments/assets/7caf27d5-a368-4edf-92cc-29ab62ca7060)
+
 
 
 
