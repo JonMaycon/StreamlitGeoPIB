@@ -1,7 +1,8 @@
 import streamlit as st
 import pandas as pd
 import plotly.express as px
-import webbrowser
+import webbrowser 
+
 
 
 st.set_page_config(
